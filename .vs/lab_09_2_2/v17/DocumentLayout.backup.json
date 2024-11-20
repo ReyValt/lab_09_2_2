@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Diane\\source\\repos\\lab_09_2_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C28CC09B-5F83-4AD9-ACD9-9E5FA98D36FA}|UnitTest\\UnitTest.vcxproj|C:\\Users\\Diane\\source\\repos\\lab_09_2_2\\UnitTest\\UnitTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C28CC09B-5F83-4AD9-ACD9-9E5FA98D36FA}|UnitTest\\UnitTest.vcxproj|solutionrelative:UnitTest\\UnitTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61116F70-6323-41F3-A3BD-39E31D0F3C14}|lab_09_2_2\\lab_09_2_2.vcxproj|C:\\Users\\Diane\\source\\repos\\lab_09_2_2\\lab_09_2_2\\lab_09_2_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61116F70-6323-41F3-A3BD-39E31D0F3C14}|lab_09_2_2\\lab_09_2_2.vcxproj|solutionrelative:lab_09_2_2\\lab_09_2_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 239,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest.cpp",
+              "DocumentMoniker": "C:\\Users\\Diane\\source\\repos\\lab_09_2_2\\UnitTest\\UnitTest.cpp",
+              "RelativeDocumentMoniker": "UnitTest\\UnitTest.cpp",
+              "ToolTip": "C:\\Users\\Diane\\source\\repos\\lab_09_2_2\\UnitTest\\UnitTest.cpp*",
+              "RelativeToolTip": "UnitTest\\UnitTest.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T19:40:37.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab_09_2_2.cpp",
+              "DocumentMoniker": "C:\\Users\\Diane\\source\\repos\\lab_09_2_2\\lab_09_2_2\\lab_09_2_2.cpp",
+              "RelativeDocumentMoniker": "lab_09_2_2\\lab_09_2_2.cpp",
+              "ToolTip": "C:\\Users\\Diane\\source\\repos\\lab_09_2_2\\lab_09_2_2\\lab_09_2_2.cpp",
+              "RelativeToolTip": "lab_09_2_2\\lab_09_2_2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T18:10:21.667Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
